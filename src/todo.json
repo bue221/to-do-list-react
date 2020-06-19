@@ -1,0 +1,22 @@
+{
+"todo":[
+	{
+		"titulo": "tarea1",
+		"persona": "mark",
+		"contenido": "lorem ipsum",
+		"prioridad": "baja"
+	},
+	{
+		"titulo": "tarea2",
+		"persona": "mark",
+		"contenido": "lorem ipsum",
+		"prioridad": "baja"
+	},
+	{
+		"titulo": "tarea3",
+		"persona": "mark",
+		"contenido": "lorem ipsum",
+		"prioridad": "baja"
+	}
+]
+}
